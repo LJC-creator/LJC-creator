@@ -11,4 +11,4 @@
 * Cloud services
 * AI services
 
-* * note. I would not recommend use of my repos, as they will be in some form of fragmented persoanlised learning state.
+*note. I would not recommend use of my repos, as they will be in some form of fragmented persoanlised learning state.*
