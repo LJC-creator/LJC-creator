@@ -1,16 +1,14 @@
-## Hi there 👋
+## LJC-creator
 
-<!--
-**LJC-creator/LJC-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Learning about 🌱
+* HTML5
+* Javascript
+* Python
+* Apache
+* SQL
+* Data relationship management
+* Web services
+* Cloud services
+* AI services
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* * note. I would not recommend use of my repos, as they will be in some form of fragmented persoanlised learning state.
